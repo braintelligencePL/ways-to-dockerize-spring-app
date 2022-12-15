@@ -1,3 +1,5 @@
+### Different ways to dockerize spring-app
+
 1. Spring Boot Build Plugin
 2. JIB
 
